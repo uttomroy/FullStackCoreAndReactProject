@@ -1,0 +1,2 @@
+# FullStackCoreAndReactProject
+FullStack
