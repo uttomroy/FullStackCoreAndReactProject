@@ -1,0 +1,11 @@
+C:\Pradip\practice\TestMVCApplication\WebApi\obj\Release\net6.0\PubTmp\Out\WebApi.exe
+C:\Pradip\practice\TestMVCApplication\WebApi\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Pradip\practice\TestMVCApplication\WebApi\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Pradip\practice\TestMVCApplication\WebApi\obj\Release\net6.0\PubTmp\Out\WebApi.dll
+C:\Pradip\practice\TestMVCApplication\WebApi\obj\Release\net6.0\PubTmp\Out\WebApi.deps.json
+C:\Pradip\practice\TestMVCApplication\WebApi\obj\Release\net6.0\PubTmp\Out\WebApi.runtimeconfig.json
+C:\Pradip\practice\TestMVCApplication\WebApi\obj\Release\net6.0\PubTmp\Out\WebApi.pdb
+C:\Pradip\practice\TestMVCApplication\WebApi\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Pradip\practice\TestMVCApplication\WebApi\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Pradip\practice\TestMVCApplication\WebApi\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Pradip\practice\TestMVCApplication\WebApi\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
